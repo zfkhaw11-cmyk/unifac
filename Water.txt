@@ -2,16 +2,16 @@ Water (ID 152)
 
 Formula: C2H6O
 
-Critical Temperature     :        647.3    K
-Critical Pressure        :        220.48   bar
-Acentric Factor          :        0.344
+Critical Temperature   :  647.3    K
+Critical Pressure      :  220.48   bar
+Acentric Factor        :  0.344
 
 Antoine Vapor Pressure (bar)
-        Coefficients:   11.6834
-                        3816.44
-                        -46.13
+  Coefficients:   11.6834
+                  3816.44
+                  -46.13
 
-UNIFAC Subgroup:        Subgroup ID       Contribution
-                        16                1
+UNIFAC Subgroup:   Subgroup ID   Contribution
+                   16            1
                         
 
