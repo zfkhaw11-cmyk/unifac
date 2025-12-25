@@ -1,6 +1,6 @@
 Water (ID 152)
 
-Formula: C2H6O
+Formula: H2O
 
 Critical Temperature   :  647.3    K
 Critical Pressure      :  220.48   bar
