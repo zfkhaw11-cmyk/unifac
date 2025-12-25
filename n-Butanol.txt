@@ -3,17 +3,18 @@ n-Butanol (ID 192)
 Formula: C4H10O
 
 Critical Temperature	:	562.9	K
-Critical Pressure	:	44.18	bar
-Acentric Factor		:	0.590
+Critical Pressure	    :	44.18	bar
+Acentric Factor		    :	0.590
 
 Antoine Vapor Pressure (bar)
 	Coefficients:	10.5958
-			3137.02
-			-94.43
+			        3137.02
+			        -94.43
 
 UNIFAC Subgroup:	Subgroup ID	Contribution
-			1		1
-			2		3
-			14		1
+			        1		    1
+			        2		    3
+			        14		    1
+
 
 
