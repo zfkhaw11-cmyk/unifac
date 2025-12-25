@@ -1,0 +1,19 @@
+Ethanol (ID 275)
+
+Formula: C2H6O
+
+Critical Temperature	:	516.2	K
+Critical Pressure	:	63.83	bar
+Acentric Factor		:	0.635
+
+Antoine Vapor Pressure (bar)
+	Coefficients:	12.2917
+			3803.98
+			-41.68
+
+UNIFAC Subgroup:	Subgroup ID	Contribution
+			1		1
+			2		1
+			14		1
+			
+
