@@ -12,8 +12,9 @@ Antoine Vapor Pressure (bar)
 					-80.15
 
 UNIFAC Subgroup:	Subgroup ID	Contribution
-					1		1
-					2		2
-					14		1
+					1			1
+					2			2
+					14			1
+
 
 
